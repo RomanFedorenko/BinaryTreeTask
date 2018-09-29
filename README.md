@@ -18,7 +18,7 @@ If you are given the tree:
   <img src="images/InputTreeExample.png" />
 </p>
 
-your implementation of linkRightNeighbour function should create the links (i.e. pointers) illustrated at image
+your implementation of ```linkRightNeighbour``` function should create the links (i.e. pointers) illustrated at image
 below:
 <p align="center">
   <img src="images/OutputTreeExample.png" />
